@@ -27,9 +27,18 @@ What does PyMC do?
 
 IPython notebook
 
-Simple UQ example
+Simple UQ example: Gelman's radon study
 
 How does PyMC work?
+
+
+### PyMC tutorial
+
+Description of PyMC objects, functions and methods
+
+Step-by-step guide to setting up and running a model, motivated by radon example
+
+Output and graphics
 
 
 ### Full example
@@ -44,6 +53,5 @@ Show potential of PyMC
 
 ## Actionable list:
 
-- brainstorm exmaples
-- scan contents of links
-- populate folder of candidate examples
+- generate outline of chapter: section and subsection headings
+- gather reference material for examples
